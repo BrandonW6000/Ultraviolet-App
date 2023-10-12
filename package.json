@@ -1,7 +1,7 @@
 {
   "name": "google",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "a normal browser",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
